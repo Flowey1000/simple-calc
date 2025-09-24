@@ -1,4 +1,4 @@
-#Simple-Calc
+# Simple-Calc
 
 How to Use:
 
