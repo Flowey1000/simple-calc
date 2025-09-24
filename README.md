@@ -1,9 +1,15 @@
-# simple-calc
+#Simple-Calc
 
-how to use:
+How to Use:
 
-to use it you can type
+Just type a basic math expression like:
+
 1 + 1
-and it will say The answer to '1 + 1' is: 2
 
-thats it
+
+And you'll get a response like:
+
+The answer to '1 + 1' is: 2
+
+
+That's it
