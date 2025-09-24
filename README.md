@@ -10,5 +10,6 @@ And you'll get a response like:
 
 The answer to '5.75 * 12' is: 69.0
 
+You can use / * + and -
 
 That's it
