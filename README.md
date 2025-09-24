@@ -1,6 +1,6 @@
 # simple-calc
 
-after running it
+how to use:
 
 you can type for example 
 1 + 1
